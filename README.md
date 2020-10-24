@@ -22,3 +22,19 @@
 - 💻 I’m currently working on my own [project](https://github.com/Dsazz/flutter_playground)
 - 🧠 I’m currently learning Flutter & BLoC
 - ⚡ Fun fact: spent six years on `VIM` and this year switched to `IntelliJ IDEA`
+
+**Programming languages and Tools:**
+
+<code><img height="40" alt="Flutter" src="https://github.com/Dsazz/Dsazz/blob/main/flutter.png?raw=true"></code>
+<code><img height="40" alt="Dart" src="https://github.com/Dsazz/Dsazz/blob/main/dart.png?raw=true"></code>
+<code><img height="40" alt="JavaScript" src="https://github.com/Dsazz/Dsazz/blob/main/java-script.png?raw=true"></code>
+<code><img height="40" alt="Node.js" src="https://github.com/Dsazz/Dsazz/blob/main/nodejs.png?raw=true"></code>
+<code><img height="40" alt="Vue.js" src="https://github.com/Dsazz/Dsazz/blob/main/vue.png?raw=true"></code>
+<code><img height="40" alt="React.js" src="https://github.com/Dsazz/Dsazz/blob/main/react.png?raw=true"></code>
+<code><img height="40" alt="GoLang" src="https://github.com/Dsazz/Dsazz/blob/main/golang.png?raw=true"></code>
+<code><img height="40" alt="PHP" src="https://github.com/Dsazz/Dsazz/blob/main/php.png?raw=true"></code>
+<code><img height="40" alt="Oracle DB" src="https://github.com/Dsazz/Dsazz/blob/main/oracle.png?raw=true"></code>
+<code><img height="40" alt="PostgreSQL" src="https://github.com/Dsazz/Dsazz/blob/main/postgres.png?raw=true"></code>
+<code><img height="40" alt="MySQL" src="https://github.com/Dsazz/Dsazz/blob/main/mysql.png?raw=true"></code>
+<code><img height="40" alt="VIM" src="https://github.com/Dsazz/Dsazz/blob/main/vim.png?raw=true"></code>
+<code><img height="40" alt="IntelliJ" src="https://github.com/Dsazz/Dsazz/blob/main/intelliJ.png?raw=true"></code>
