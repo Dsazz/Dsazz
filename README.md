@@ -23,7 +23,7 @@
 
 - 💻 I’m currently working on my own [project](https://github.com/Dsazz/flutter_playground)
 - 🧠 I’m currently learning `Flutter & BLoC`
-- ⚡ Fun fact: spent six years on `VIM` and this year switched to `IntelliJ IDEA`
+- ⚡ Fun fact: spent **six years** on `VIM` and this year switched to `IntelliJ IDEA`
 
 **Programming languages and Tools:**
 
