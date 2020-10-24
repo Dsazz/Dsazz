@@ -4,7 +4,7 @@
       <img alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true"/>
   </div>
 
-#### I'm Stan, a `Flutter/Full Stack Developer`
+#### I'm Stan, I'm a `Flutter/Full Stack Developer`
 
 [![Telegram Badge](https://img.shields.io/badge/-stanislav_stepanenko-blue?style=social&logo=Telegram&link=https://t.me/stanislav_stepanenko)](https://t.me/stanislav_stepanenko) 
 [![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/stanislav_stepanenko/)](https://www.linkedin.com/in/stanislav_stepanenko/)<br/>
