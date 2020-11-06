@@ -43,3 +43,7 @@
 <code><img height="40" title="MySQL" alt="MySQL" src="https://github.com/Dsazz/Dsazz/blob/main/mysql.png?raw=true"></code>
 <code><img height="40" title="VIM" alt="VIM" src="https://github.com/Dsazz/Dsazz/blob/main/vim.png?raw=true"></code>
 <code><img height="40" title="IntelliJ" alt="IntelliJ" src="https://github.com/Dsazz/Dsazz/blob/main/intelliJ.png?raw=true"></code>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsazz&layout=compact&hide=html,css" alt="Dsazz"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dsazz&show_icons=true" alt="Dsazz" /></p>
