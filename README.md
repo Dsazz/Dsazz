@@ -32,8 +32,8 @@
 
 <code><img height="40" title="Flutter" alt="Flutter" src="https://github.com/Dsazz/Dsazz/blob/main/flutter.png?raw=true"></code>
 <code><img height="40" title="Dart" alt="Dart" src="https://github.com/Dsazz/Dsazz/blob/main/dart.png?raw=true"></code>
-<code><img height="40" title="JavaScript" alt="JavaScript" src="https://github.com/Dsazz/Dsazz/blob/main/java-script.png?raw=true"></code>
 <code><img height="40" title="GoLang" alt="GoLang" src="https://github.com/Dsazz/Dsazz/blob/main/golang.png?raw=true"></code>
+<code><img height="40" title="JavaScript" alt="JavaScript" src="https://github.com/Dsazz/Dsazz/blob/main/java-script.png?raw=true"></code>
 <code><img height="40" title="Node.js" alt="Node.js" src="https://github.com/Dsazz/Dsazz/blob/main/nodejs.png?raw=true"></code>
 <code><img height="40" title="Vue.js" alt="Vue.js" src="https://github.com/Dsazz/Dsazz/blob/main/vue.png?raw=true"></code>
 <code><img height="40" title="React.js" alt="React.js" src="https://github.com/Dsazz/Dsazz/blob/main/react.png?raw=true"></code>
