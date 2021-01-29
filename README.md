@@ -33,10 +33,10 @@
 <code><img height="40" title="Flutter" alt="Flutter" src="https://github.com/Dsazz/Dsazz/blob/main/flutter.png?raw=true"></code>
 <code><img height="40" title="Dart" alt="Dart" src="https://github.com/Dsazz/Dsazz/blob/main/dart.png?raw=true"></code>
 <code><img height="40" title="JavaScript" alt="JavaScript" src="https://github.com/Dsazz/Dsazz/blob/main/java-script.png?raw=true"></code>
+<code><img height="40" title="GoLang" alt="GoLang" src="https://github.com/Dsazz/Dsazz/blob/main/golang.png?raw=true"></code>
 <code><img height="40" title="Node.js" alt="Node.js" src="https://github.com/Dsazz/Dsazz/blob/main/nodejs.png?raw=true"></code>
 <code><img height="40" title="Vue.js" alt="Vue.js" src="https://github.com/Dsazz/Dsazz/blob/main/vue.png?raw=true"></code>
 <code><img height="40" title="React.js" alt="React.js" src="https://github.com/Dsazz/Dsazz/blob/main/react.png?raw=true"></code>
-<code><img height="40" title="GoLang" alt="GoLang" src="https://github.com/Dsazz/Dsazz/blob/main/golang.png?raw=true"></code>
 <code><img height="40" title="PHP" alt="PHP" src="https://github.com/Dsazz/Dsazz/blob/main/php.png?raw=true"></code>
 <code><img height="40" title="Oracle DB" alt="Oracle DB" src="https://github.com/Dsazz/Dsazz/blob/main/oracle.png?raw=true"></code>
 <code><img height="40" title="PostgreSQL" alt="PostgreSQL" src="https://github.com/Dsazz/Dsazz/blob/main/postgres.png?raw=true"></code>
@@ -44,6 +44,4 @@
 <code><img height="40" title="VIM" alt="VIM" src="https://github.com/Dsazz/Dsazz/blob/main/vim.png?raw=true"></code>
 <code><img height="40" title="IntelliJ" alt="IntelliJ" src="https://github.com/Dsazz/Dsazz/blob/main/intelliJ.png?raw=true"></code>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsazz&layout=compact&hide=html,css" alt="Dsazz"/>
-<span style="margin: 15px 0;"></span>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dsazz&show_icons=true" alt="Dsazz" /></p>
