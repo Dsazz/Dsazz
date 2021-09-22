@@ -4,7 +4,7 @@
       <img alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true"/>
   </div>
 
-#### I'm Stan, I'm a `Flutter/Full Stack Developer`
+#### I'm Stan, I'm a `Full Stack Developer`
 
 [![Telegram Badge](https://img.shields.io/badge/-stanislav_stepanenko-blue?style=social&logo=Telegram&link=https://t.me/stanislav_stepanenko)](https://t.me/stanislav_stepanenko) 
 [![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=http://linkedin.com/in/stanislav-stepanenko)](http://linkedin.com/in/stanislav-stepanenko)<br/>
@@ -24,15 +24,16 @@
 
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on my own [project](https://github.com/Dsazz/flutter_playground)
-- 🧠 I’m currently learning `Flutter & BLoC`
+- 💻 I’m currently working on my own `telegram bot` on `Rust` (https://telegram.me/mangana_bot)
+- 🧠 I’m currently learning `Rust`
 - ⚡ Fun fact: spent **six years** on `VIM` and this year switched to `IntelliJ IDEA`
 
 **Programming languages and Tools:**
 
+<code><img height="40" title="Rust" alt="Rust" src="https://github.com/Dsazz/Dsazz/blob/main/rust-logo.png?raw=true"></code>
+<code><img height="40" title="GoLang" alt="GoLang" src="https://github.com/Dsazz/Dsazz/blob/main/golang.png?raw=true"></code>
 <code><img height="40" title="Flutter" alt="Flutter" src="https://github.com/Dsazz/Dsazz/blob/main/flutter.png?raw=true"></code>
 <code><img height="40" title="Dart" alt="Dart" src="https://github.com/Dsazz/Dsazz/blob/main/dart.png?raw=true"></code>
-<code><img height="40" title="GoLang" alt="GoLang" src="https://github.com/Dsazz/Dsazz/blob/main/golang.png?raw=true"></code>
 <code><img height="40" title="JavaScript" alt="JavaScript" src="https://github.com/Dsazz/Dsazz/blob/main/java-script.png?raw=true"></code>
 <code><img height="40" title="Node.js" alt="Node.js" src="https://github.com/Dsazz/Dsazz/blob/main/nodejs.png?raw=true"></code>
 <code><img height="40" title="Vue.js" alt="Vue.js" src="https://github.com/Dsazz/Dsazz/blob/main/vue.png?raw=true"></code>
