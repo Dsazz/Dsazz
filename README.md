@@ -44,4 +44,4 @@
 <code><img height="40" title="VIM" alt="VIM" src="https://github.com/Dsazz/Dsazz/blob/main/vim.png?raw=true"></code>
 <code><img height="40" title="IntelliJ" alt="IntelliJ" src="https://github.com/Dsazz/Dsazz/blob/main/intelliJ.png?raw=true"></code>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dsazz&show_icons=true" alt="Dsazz" /></p>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dsazz&show_icons=true" alt="Dsazz" /></p>
