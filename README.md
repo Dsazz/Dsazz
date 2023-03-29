@@ -1,33 +1,35 @@
-### Hi there!
+## Welcome to my profile - where code comes to life!
+<div style="overflow: hidden; float:right;">
+  <img alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true"/>
+</div>
 
-  <div style="overflow: hidden; float:right;">
-      <img alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true"/>
-  </div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-#### I'm Stan, I'm a `Full Stack Developer`
-
-[![Telegram Badge](https://img.shields.io/badge/-stanislav_stepanenko-blue?style=social&logo=Telegram&link=https://t.me/stanislav_stepanenko)](https://t.me/stanislav_stepanenko) 
-[![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=http://linkedin.com/in/stanislav-stepanenko)](http://linkedin.com/in/stanislav-stepanenko)<br/>
-[![GMAIL Badge](https://img.shields.io/badge/dev.stanislav.stepanenko@gmail.com-D14836?style=social&logo=gmail&link=mailto:dev.stanislav.stepanenko@gmail.com)](mailto:dev.stanislav.stepanenko@gmail.com)
-
-[![GitHub followers](https://img.shields.io/github/followers/Dsazz?label=Follow&style=social)](https://github.com/Dsazz/?tab=follow)
-![](https://visitor-badge.glitch.me/badge?page_id=Dsazz)
-
-**Personal Profile**
+# 💫 About Me:
 
 - :octocat: High level of self awareness with a willingness to learn and progress
 - 💬 Honest communicator with the ability to communicate clear and consistently
 - 😉 Positive and open attitude, friendly and supportive
 - 🐾 Excellent problem solver
-- ⭐ Hackathons participant 
 
 **Talking about Personal Stuffs:**
 
 - 💻 I am currently working on my own `telegram bot` on `Rust` (https://telegram.me/mangana_bot)
-- 💻 I am also developing a [game](https://github.com/Dsazz/hell-pong-game) on the `Phaser` + `SocketIO` engine
+- 💻 I am also developing a [game](https://github.com/Dsazz/hell-pong-game) on `Phaser` + `SocketIO` engine
 - ⚡ Fun fact: spent **six years** on `VIM` and switched to `IntelliJ IDEA`
 
-**Programming languages and Tools:**
+## 🌐 Socials:
+
+[![Telegram Badge](https://img.shields.io/badge/-stanislav_stepanenko-blue?style=social&logo=Telegram&link=https://t.me/stanislav_stepanenko)](https://t.me/stanislav_stepanenko) 
+[![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=http://linkedin.com/in/stanislav-stepanenko)](http://linkedin.com/in/stanislav-stepanenko)
+[![GMAIL Badge](https://img.shields.io/badge/dev.stanislav.stepanenko@gmail.com-D14836?style=social&logo=gmail&link=mailto:dev.stanislav.stepanenko@gmail.com)](mailto:dev.stanislav.stepanenko@gmail.com)
+
+![](https://visitor-badge.glitch.me/badge?page_id=Dsazz)
+[![GitHub followers](https://img.shields.io/github/followers/Dsazz?label=Follow&style=social)](https://github.com/Dsazz/?tab=follow)
+<br/>[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/dev.stan) 
+
+
+## 💻 Tech Stack:
 
 <code><img height="40" title="JavaScript" alt="JavaScript" src="https://github.com/Dsazz/Dsazz/blob/main/java-script.png?raw=true"></code>
 <code><img height="40" title="GoLang" alt="GoLang" src="https://github.com/Dsazz/Dsazz/blob/main/golang.png?raw=true"></code>
@@ -54,4 +56,11 @@
 <code><img height="40" title="VIM" alt="VIM" src="https://github.com/Dsazz/Dsazz/blob/main/vim.png?raw=true"></code>
 <code><img height="40" title="IntelliJ" alt="IntelliJ" src="https://github.com/Dsazz/Dsazz/blob/main/intelliJ.png?raw=true"></code>
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dsazz&show_icons=true" alt="Dsazz" /></p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dsazz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dsazz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dsazz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Dsazz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
