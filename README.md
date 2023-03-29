@@ -26,7 +26,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Dsazz)
 [![GitHub followers](https://img.shields.io/github/followers/Dsazz?label=Follow&style=social)](https://github.com/Dsazz/?tab=follow)
-<br/>[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/dev.stan) 
+<br/>[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dev.stan) 
 
 
 ## 💻 Tech Stack:
