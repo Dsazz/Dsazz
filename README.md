@@ -14,8 +14,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 💻 I am currently working on my own `telegram bot` on `Rust` (https://telegram.me/mangana_bot)
-- 💻 I am also developing a [game](https://github.com/Dsazz/hell-pong-game) on `Phaser` + `SocketIO` engine
+- 💻 I am currently working on my own [game](https://github.com/Dsazz/hell-pong-game) using the `Phaser` + `SocketIO` engine
 - ⚡ Fun fact: spent **six years** on `VIM` and switched to `Webstorm IDE` and `VSCode`
 
 ## 🌐 Socials:
