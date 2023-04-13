@@ -17,7 +17,7 @@
 
 - 💻 I am currently working on my own `telegram bot` on `Rust` (https://telegram.me/mangana_bot)
 - 💻 I am also developing a [game](https://github.com/Dsazz/hell-pong-game) on `Phaser` + `SocketIO` engine
-- ⚡ Fun fact: spent **six years** on `VIM` and switched to `IntelliJ IDEA`
+- ⚡ Fun fact: spent **six years** on `VIM` and switched to `Webstorm IDE` and `VSCode`
 
 ## 🌐 Socials:
 
@@ -55,7 +55,9 @@
 <code><img height="40" title="Firebase" alt="Firebase" src="https://github.com/Dsazz/Dsazz/blob/main/firebase.png?raw=true"></code>
 
 <code><img height="40" title="VIM" alt="VIM" src="https://github.com/Dsazz/Dsazz/blob/main/vim.png?raw=true"></code>
-<code><img height="40" title="IntelliJ" alt="IntelliJ" src="https://github.com/Dsazz/Dsazz/blob/main/intelliJ.png?raw=true"></code>
+<code><img height="42" title="VSCode" alt="VSCode" src="https://github.com/Dsazz/Dsazz/blob/main/vscode.png?raw=true"></code>
+<code><img height="42" title="VSCode" alt="VSCode" src="https://github.com/Dsazz/Dsazz/blob/main/webstorm.png?raw=true"></code>
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dsazz&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
