@@ -8,7 +8,6 @@
 # <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" style="margin-bottom: -0.35rem;" width="40px" height="40px"> About Me:
 
 - :octocat: High level of self awareness with a willingness to learn and progress
-- 💬 Honest communicator with the ability to communicate clear and consistently
 - 😉 Positive and open attitude, friendly and supportive
 - 🐾 Excellent problem solver
 
