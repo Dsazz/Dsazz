@@ -32,7 +32,7 @@
 
 ## 💻 Tech Stack:
 
-<code><img height="40" title="JavaScript" alt="JavaScript" src="https://github.com/Dsazz/Dsazz/blob/main/java-script.png?raw=true"></code>
+<code><img height="40" title="TypeScript" alt="TypeScript" src="https://github.com/Dsazz/Dsazz/blob/main/ts.png?raw=true"></code>
 <code><img height="40" title="GoLang" alt="GoLang" src="https://github.com/Dsazz/Dsazz/blob/main/golang.png?raw=true"></code>
 <code><img height="40" title="Rust" alt="Rust" src="https://github.com/Dsazz/Dsazz/blob/main/rust.png?raw=true"></code>
 <code><img height="40" title="PHP" alt="PHP" src="https://github.com/Dsazz/Dsazz/blob/main/php.png?raw=true"></code>
