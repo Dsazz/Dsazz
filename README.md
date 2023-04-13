@@ -5,7 +5,6 @@
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 # <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" style="margin-bottom: -0.35rem;" width="40px" height="40px"> About Me:
 
 - :octocat: High level of self awareness with a willingness to learn and progress
@@ -28,7 +27,6 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Dsazz)
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dev.stan) 
-
 
 ## 💻 Tech Stack:
 
