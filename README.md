@@ -9,7 +9,6 @@
 
 - :octocat: High level of self awareness with a willingness to learn and progress
 - 😉 Positive and open attitude, friendly and supportive
-- 🐾 Excellent problem solver
 
 **Talking about Personal Stuffs:**
 
