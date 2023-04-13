@@ -1,11 +1,12 @@
 ## Welcome to my profile - where code comes to life!
+
 <div style="overflow: hidden; float:right;">
   <img alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true"/>
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 💫 About Me:
+# <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" style="margin-bottom: -0.35rem;" width="40px" height="40px"> About Me:
 
 - :octocat: High level of self awareness with a willingness to learn and progress
 - 💬 Honest communicator with the ability to communicate clear and consistently
@@ -23,10 +24,10 @@
 [![Telegram Badge](https://img.shields.io/badge/-stanislav_stepanenko-blue?style=social&logo=Telegram&link=https://t.me/stanislav_stepanenko)](https://t.me/stanislav_stepanenko) 
 [![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=http://linkedin.com/in/stanislav-stepanenko)](http://linkedin.com/in/stanislav-stepanenko)
 [![GMAIL Badge](https://img.shields.io/badge/dev.stanislav.stepanenko@gmail.com-D14836?style=social&logo=gmail&link=mailto:dev.stanislav.stepanenko@gmail.com)](mailto:dev.stanislav.stepanenko@gmail.com)
-
-![](https://visitor-badge.glitch.me/badge?page_id=Dsazz)
 [![GitHub followers](https://img.shields.io/github/followers/Dsazz?label=Follow&style=social)](https://github.com/Dsazz/?tab=follow)
-<br/>[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dev.stan) 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Dsazz)
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dev.stan) 
 
 
 ## 💻 Tech Stack:
