@@ -50,7 +50,7 @@
 <code><img height="40" title="Next.js" alt="Next.js" src="https://github.com/Dsazz/Dsazz/blob/main/nextjs.png?raw=true"></code>
 <code><img height="40" title="SocketIO" alt="SocketIO" src="https://github.com/Dsazz/Dsazz/blob/main/socketio.png?raw=true"></code>
 
-<code><img height="40" title="Oracle DB" alt="Oracle DB" src="https://github.com/Dsazz/Dsazz/blob/main/oracle.png?raw=true"></code>
+<code><img height="40" title="Oracle DB" alt="Oracle DB" src="https://github.com/Dsazz/Dsazz/blob/main/oracle2.png?raw=true"></code>
 <code><img height="40" title="PostgreSQL" alt="PostgreSQL" src="https://github.com/Dsazz/Dsazz/blob/main/postgres.png?raw=true"></code>
 <code><img height="40" title="MySQL" alt="MySQL" src="https://github.com/Dsazz/Dsazz/blob/main/mysql.png?raw=true"></code>
 <code><img height="40" title="MongoDB" alt="MongoDB" src="https://github.com/Dsazz/Dsazz/blob/main/mongodb.png?raw=true"></code>
