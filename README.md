@@ -24,7 +24,7 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dev.stan) 
 
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/kitty.gif?raw=true" style="margin-bottom: -0.75rem;" height="40px">Tech Stack:
+## <img src="https://github.com/Dsazz/Dsazz/blob/main/kitty.gif?raw=true" style="margin-bottom: -0.75rem;" width="40px" height="40px">Tech Stack:
 
 <code><img height="40" title="TypeScript" alt="TypeScript" src="https://github.com/Dsazz/Dsazz/blob/main/ts.png?raw=true"></code>
 <code><img height="40" title="GoLang" alt="GoLang" src="https://github.com/Dsazz/Dsazz/blob/main/go.png?raw=true"></code>
@@ -55,10 +55,10 @@
 <code><img height="42" title="VSCode" alt="VSCode" src="https://github.com/Dsazz/Dsazz/blob/main/webstorm.png?raw=true"></code>
 
 
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/charts_.gif?raw=true" style="margin-bottom: -0.5rem;" height="32px">  GitHub Stats:
+## <img src="https://github.com/Dsazz/Dsazz/blob/main/charts_.gif?raw=true" style="margin-bottom: -0.5rem;" width="36px" height="32px">  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dsazz&theme=radical&hide_border=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dsazz&theme=radical&hide_border=true)](https://git.io/streak-stats)<br/>
 
-##  <img src="https://github.com/Dsazz/Dsazz/blob/main/trophy.gif?raw=true" style="margin-bottom: -0.1rem;" height="32px"> GitHub Trophies:
+##  <img src="https://github.com/Dsazz/Dsazz/blob/main/trophy.gif?raw=true" style="margin-bottom: -0.1rem;" width="38px" height="32px"> GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Dsazz&theme=radical&no-frame=true&no-bg=false&rank=-C)
 
