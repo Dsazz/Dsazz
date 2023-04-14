@@ -21,7 +21,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=http://linkedin.com/in/stanislav-stepanenko)](http://linkedin.com/in/stanislav-stepanenko)
 [![GMAIL Badge](https://img.shields.io/badge/dev.stanislav.stepanenko@gmail.com-D14836?style=social&logo=gmail&link=mailto:dev.stanislav.stepanenko@gmail.com)](mailto:dev.stanislav.stepanenko@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Dsazz?label=Follow&style=social)](https://github.com/Dsazz/?tab=follow)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Dsazz)
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dev.stan) 
 
