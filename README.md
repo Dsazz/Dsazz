@@ -56,7 +56,7 @@
 
 
 ## <img src="https://github.com/Dsazz/Dsazz/blob/main/charts_.gif?raw=true" style="margin-bottom: -0.5rem;" width="36px" height="32px">  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dsazz&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Dsazz&theme=radical&hide_border=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dsazz&theme=radical&hide_border=true)](https://git.io/streak-stats)<br/>
 
 ##  <img src="https://github.com/Dsazz/Dsazz/blob/main/trophy.gif?raw=true" style="margin-bottom: -0.1rem;" width="38px" height="32px"> GitHub Trophies:
