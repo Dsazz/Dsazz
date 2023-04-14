@@ -1,4 +1,4 @@
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/heart.gif?raw=true" style="margin-bottom: -0.20rem" height="30px"> Welcome to my profile - where code comes to life!
+## <img src="https://github.com/Dsazz/Dsazz/blob/main/heart.gif?raw=true" style="margin-bottom: -0.45rem" height="30px"> Welcome to my profile - where code comes to life!
 
 <div style="overflow: hidden; float:right;">
   <img alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true"/>
