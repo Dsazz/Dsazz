@@ -5,7 +5,7 @@
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-# <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" style="margin-bottom: -0.35rem;" width="40px" height="40px"> About Me:
+# <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" style="margin-bottom: -0.28rem;" height="38px">About Me:
 
 - :octocat: High level of self awareness with a willingness to learn and progress
 - 😉 Positive and open attitude, friendly and supportive
@@ -15,7 +15,7 @@
 - 💻 I am currently working on my own [game](https://github.com/Dsazz/hell-pong-game) using the `Phaser` + `SocketIO` engine
 - ⚡ Fun fact: spent **six years** on `VIM` and switched to `Webstorm IDE` and `VSCode`
 
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/email_2.gif?raw=true" style="margin-bottom: -0.20rem" height="25px"> Socials:
+## <img src="https://github.com/Dsazz/Dsazz/blob/main/email_2.gif?raw=true" style="margin-bottom: -0.2rem" height="22px"> Socials:
 
 [![Telegram Badge](https://img.shields.io/badge/-stanislav_stepanenko-blue?style=social&logo=Telegram&link=https://t.me/stanislav_stepanenko)](https://t.me/stanislav_stepanenko) 
 [![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=http://linkedin.com/in/stanislav-stepanenko)](http://linkedin.com/in/stanislav-stepanenko)
@@ -56,10 +56,10 @@
 <code><img height="42" title="VSCode" alt="VSCode" src="https://github.com/Dsazz/Dsazz/blob/main/webstorm.png?raw=true"></code>
 
 
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/charts_.gif?raw=true" style="margin-bottom: -0.75rem;" height="40px">  GitHub Stats:
+## <img src="https://github.com/Dsazz/Dsazz/blob/main/charts_.gif?raw=true" style="margin-bottom: -0.5rem;" height="32px">  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dsazz&theme=radical&hide_border=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dsazz&theme=radical&hide_border=true)](https://git.io/streak-stats)<br/>
 
-##  <img src="https://github.com/Dsazz/Dsazz/blob/main/trophy.gif?raw=true" style="margin-bottom: -0.1rem;" height="35px"> GitHub Trophies:
+##  <img src="https://github.com/Dsazz/Dsazz/blob/main/trophy.gif?raw=true" style="margin-bottom: -0.1rem;" height="32px"> GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Dsazz&theme=radical&no-frame=true&no-bg=false&rank=-C)
 
