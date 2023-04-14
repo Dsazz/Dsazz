@@ -15,7 +15,7 @@
 - 💻 I am currently working on my own [game](https://github.com/Dsazz/hell-pong-game) using the `Phaser` + `SocketIO` engine
 - ⚡ Fun fact: spent **six years** on `VIM` and switched to `Webstorm IDE` and `VSCode`
 
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/email_2.gif?raw=true" style="margin-bottom: -0.2rem" width="26px" height="22px"> Socials:
+## <img src="https://github.com/Dsazz/Dsazz/blob/main/email_2.gif?raw=true" style="margin-bottom: -0.2rem" width="30px" height="22px"> Socials:
 
 [![Telegram Badge](https://img.shields.io/badge/-stanislav_stepanenko-blue?style=social&logo=Telegram&link=https://t.me/stanislav_stepanenko)](https://t.me/stanislav_stepanenko) 
 [![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=http://linkedin.com/in/stanislav-stepanenko)](http://linkedin.com/in/stanislav-stepanenko)
