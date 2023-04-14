@@ -56,10 +56,10 @@
 <code><img height="42" title="VSCode" alt="VSCode" src="https://github.com/Dsazz/Dsazz/blob/main/webstorm.png?raw=true"></code>
 
 
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/charts.gif?raw=true" style="margin-bottom: -0.75rem;" height="40px">  GitHub Stats:
+## <img src="https://github.com/Dsazz/Dsazz/blob/main/charts_.gif?raw=true" style="margin-bottom: -0.75rem;" height="40px">  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dsazz&theme=radical&hide_border=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dsazz&theme=radical&hide_border=true)](https://git.io/streak-stats)<br/>
 
-### <img src="https://github.com/Dsazz/Dsazz/blob/main/trophy.gif?raw=true" style="margin-bottom: -0.25rem;" height="40px">GitHub Trophies
+##  <img src="https://github.com/Dsazz/Dsazz/blob/main/trophy.gif?raw=true" style="margin-bottom: -0.1rem;" height="35px"> GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Dsazz&theme=radical&no-frame=true&no-bg=false&rank=-C)
 
