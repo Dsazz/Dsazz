@@ -15,7 +15,7 @@
 - 💻 I am currently working on my own [game](https://github.com/Dsazz/hell-pong-game) using the `Phaser` + `SocketIO` engine
 - ⚡ Fun fact: spent **six years** on `VIM` and switched to `Webstorm IDE` and `VSCode`
 
-## 🌐 Socials:
+## <img src="https://github.com/Dsazz/Dsazz/blob/main/email.gif?raw=true" style="margin-bottom: -0.75rem;" width="40px" height="40px"> Socials:
 
 [![Telegram Badge](https://img.shields.io/badge/-stanislav_stepanenko-blue?style=social&logo=Telegram&link=https://t.me/stanislav_stepanenko)](https://t.me/stanislav_stepanenko) 
 [![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=http://linkedin.com/in/stanislav-stepanenko)](http://linkedin.com/in/stanislav-stepanenko)
@@ -25,7 +25,7 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dev.stan) 
 
-## 💻 Tech Stack:
+## <img src="https://github.com/Dsazz/Dsazz/blob/main/kitty.gif?raw=true" style="margin-bottom: -0.75rem;" width="40px" height="40px"> Tech Stack:
 
 <code><img height="40" title="TypeScript" alt="TypeScript" src="https://github.com/Dsazz/Dsazz/blob/main/ts.png?raw=true"></code>
 <code><img height="40" title="GoLang" alt="GoLang" src="https://github.com/Dsazz/Dsazz/blob/main/go.png?raw=true"></code>
@@ -56,7 +56,7 @@
 <code><img height="42" title="VSCode" alt="VSCode" src="https://github.com/Dsazz/Dsazz/blob/main/webstorm.png?raw=true"></code>
 
 
-## 📊 GitHub Stats:
+## <img src="https://github.com/Dsazz/Dsazz/blob/main/charts.gif?raw=true" style="margin-bottom: -0.75rem;" width="40px" height="40px">  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dsazz&theme=radical&hide_border=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dsazz&theme=radical&hide_border=true)](https://git.io/streak-stats)<br/>
 
