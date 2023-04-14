@@ -1,11 +1,11 @@
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/heart_2.gif?raw=true" style="margin-bottom: -0.45rem" height="30px"> Welcome to my profile - where code comes to life!
+## <img src="https://github.com/Dsazz/Dsazz/blob/main/heart_2.gif?raw=true" style="margin-bottom: -0.45rem" width="30px" height="30px"> Welcome to my profile - where code comes to life!
 
 <div style="overflow: hidden; float:right;">
   <img alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true"/>
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-# <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" style="margin-bottom: -0.28rem;" height="38px">About Me:
+# <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" style="margin-bottom: -0.28rem;" width="38px" height="38px">About Me:
 
 - :octocat: High level of self awareness with a willingness to learn and progress
 - 😉 Positive and open attitude, friendly and supportive
