@@ -1,4 +1,4 @@
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/heart_2.gif?raw=true" style="margin-bottom: -0.45rem" width="30px" height="30px"> Welcome to my profile - where code comes to life!
+## <img src="https://github.com/Dsazz/Dsazz/blob/main/heart_2.gif?raw=true" style="margin-bottom: -0.1rem" width="30px" height="30px"> Welcome to my profile - where code comes to life!
 
 <div style="overflow: hidden; float:right;">
   <img alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true"/>
@@ -7,12 +7,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" style="margin-bottom: -0.28rem;" width="38px" height="38px">About Me:
 
-- :octocat: High level of self awareness with a willingness to learn and progress
+- :octocat: High level of self-awareness with a willingness to learn and progress
 - 😉 Positive and open attitude, friendly and supportive
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
-- 💻 I am currently working on my own [game](https://github.com/Dsazz/hell-pong-game) using the `Phaser` + `SocketIO` engine
+- 🧠 I'm currently learning [LangChain](https://langchain.com/) + [LangGraph](https://langchain-ai.github.io/langgraph/) ([CODE](https://github.com/Dsazz/langgraph-playground))
+- 💻 My own [game](https://github.com/Dsazz/hell-pong-game) based on the `Phaser` + `SocketIO` engine
 - ⚡ Fun fact: spent **six years** on `VIM` and switched to `Webstorm IDE` and `VSCode`
 
 ## <img src="https://github.com/Dsazz/Dsazz/blob/main/email_2.gif?raw=true" style="margin-bottom: -0.2rem" width="30px" height="22px"> Socials:
@@ -21,8 +22,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=http://linkedin.com/in/stanislav-stepanenko)](http://linkedin.com/in/stanislav-stepanenko)
 [![GMAIL Badge](https://img.shields.io/badge/dev.stanislav.stepanenko@gmail.com-D14836?style=social&logo=gmail&link=mailto:dev.stanislav.stepanenko@gmail.com)](mailto:dev.stanislav.stepanenko@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Dsazz?label=Follow&style=social)](https://github.com/Dsazz/?tab=follow)
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dev.stan) 
 
 ## <img src="https://github.com/Dsazz/Dsazz/blob/main/kitty.gif?raw=true" style="margin-bottom: -0.75rem;" width="40px" height="40px">Tech Stack:
 
@@ -52,8 +51,9 @@
 
 <code><img height="40" title="VIM" alt="VIM" src="https://github.com/Dsazz/Dsazz/blob/main/vim.png?raw=true"></code>
 <code><img height="42" title="VSCode" alt="VSCode" src="https://github.com/Dsazz/Dsazz/blob/main/vscode.png?raw=true"></code>
-<code><img height="42" title="VSCode" alt="VSCode" src="https://github.com/Dsazz/Dsazz/blob/main/webstorm.png?raw=true"></code>
+<code><img height="42" title="WebStorm" alt="WebStorm" src="https://github.com/Dsazz/Dsazz/blob/main/webstorm.png?raw=true"></code>
 
+<code><img height="42" title="LangChain" alt="LangChain" src="https://github.com/Dsazz/Dsazz/blob/main/langchain-light.svg?raw=true"></code>
 
 ## <img src="https://github.com/Dsazz/Dsazz/blob/main/charts_.gif?raw=true" style="margin-bottom: -0.5rem;" width="36px" height="32px">  GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Dsazz&theme=radical&hide_border=true)<br/>
