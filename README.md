@@ -1,11 +1,12 @@
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/heart_2.gif?raw=true" style="margin-bottom: -0.1rem" width="30px" height="30px"> Welcome to my profile - where code comes to life!
+## <img align="top" src="https://github.com/Dsazz/Dsazz/blob/main/heart_2.gif?raw=true" width="30px" height="30px"> Welcome to my profile - where code comes to life!
 
 <div style="overflow: hidden; float:right;">
   <img alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true"/>
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-# <div style="margin-bottom: -0.28rem;"><img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="38px" height="38px"></div>About Me:
+
+# <img align="top" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="38px" height="38px">About Me
 
 - :octocat: High level of self-awareness with a willingness to learn and progress
 - 😉 Positive and open attitude, friendly and supportive
@@ -16,14 +17,14 @@
 - 💻 My own [game](https://github.com/Dsazz/hell-pong-game) based on the `Phaser` + `SocketIO` engine
 - ⚡ Fun fact: spent **six years** on `VIM` and switched to `Webstorm IDE` and `VSCode`
 
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/email_2.gif?raw=true" style="margin-bottom: -0.2rem" width="30px" height="22px"> Socials:
+## <img align="center" src="https://github.com/Dsazz/Dsazz/blob/main/email_2.gif?raw=true" width="30px" height="22px"> Socials:
 
-[![Telegram Badge](https://img.shields.io/badge/-stanislav_stepanenko-blue?style=social&logo=Telegram&link=https://t.me/stanislav_stepanenko)](https://t.me/stanislav_stepanenko) 
+[![Telegram Badge](https://img.shields.io/badge/-stanislav_stepanenko-blue?style=social&logo=Telegram&link=https://t.me/stanislav_stepanenko)](https://t.me/stanislav_stepanenko)
 [![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=http://linkedin.com/in/stanislav-stepanenko)](http://linkedin.com/in/stanislav-stepanenko)
 [![GMAIL Badge](https://img.shields.io/badge/dev.stanislav.stepanenko@gmail.com-D14836?style=social&logo=gmail&link=mailto:dev.stanislav.stepanenko@gmail.com)](mailto:dev.stanislav.stepanenko@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Dsazz?label=Follow&style=social)](https://github.com/Dsazz/?tab=follow)
 
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/kitty.gif?raw=true" style="margin-bottom: -0.75rem;" width="40px" height="40px">Tech Stack:
+## <img align="top" src="https://github.com/Dsazz/Dsazz/blob/main/kitty.gif?raw=true" width="38px" height="40px">Tech Stack:
 
 <code><img height="40" title="TypeScript" alt="TypeScript" src="https://github.com/Dsazz/Dsazz/blob/main/ts.png?raw=true"></code>
 <code><img height="40" title="GoLang" alt="GoLang" src="https://github.com/Dsazz/Dsazz/blob/main/go.png?raw=true"></code>
@@ -55,10 +56,11 @@
 
 <code><img height="42" title="LangChain" alt="LangChain" src="https://github.com/Dsazz/Dsazz/blob/main/langchain-light.svg?raw=true"></code>
 
-## <img src="https://github.com/Dsazz/Dsazz/blob/main/charts_.gif?raw=true" style="margin-bottom: -0.5rem;" width="36px" height="32px">  GitHub Stats:
+## <img align="top" src="https://github.com/Dsazz/Dsazz/blob/main/charts_.gif?raw=true" width="36px" height="32px"> GitHub Stats:
+
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Dsazz&theme=radical&hide_border=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dsazz&theme=radical&hide_border=true)](https://git.io/streak-stats)<br/>
 
-##  <img src="https://github.com/Dsazz/Dsazz/blob/main/trophy.gif?raw=true" style="margin-bottom: -0.1rem;" width="38px" height="32px"> GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Dsazz&theme=radical&no-frame=true&no-bg=false&rank=-C)
+## <img align="top" src="https://github.com/Dsazz/Dsazz/blob/main/trophy.gif?raw=true" width="38px" height="32px"> GitHub Trophies:
 
+![](https://github-profile-trophy.vercel.app/?username=Dsazz&theme=radical&no-frame=true&no-bg=false&rank=-C)
