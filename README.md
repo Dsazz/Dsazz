@@ -5,7 +5,7 @@
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-# <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" style="margin-bottom: -0.28rem;" width="38px" height="38px">About Me:
+# <div style="margin-bottom: -0.28rem;"><img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="38px" height="38px"></div>About Me:
 
 - :octocat: High level of self-awareness with a willingness to learn and progress
 - 😉 Positive and open attitude, friendly and supportive
