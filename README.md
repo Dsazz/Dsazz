@@ -54,9 +54,11 @@
 <code><img height="40" title="Firebase" alt="Firebase" src="https://github.com/Dsazz/Dsazz/blob/main/firebase.png?raw=true"></code>
 
 <code><img height="40" title="VIM" alt="VIM" src="https://github.com/Dsazz/Dsazz/blob/main/vim.png?raw=true"></code>
+<code><img height="40" title="Cursor" alt="Cursor" src="https://github.com/Dsazz/Dsazz/blob/main/cursor-dark.svg?raw=true"></code>
 <code><img height="42" title="VSCode" alt="VSCode" src="https://github.com/Dsazz/Dsazz/blob/main/vscode.png?raw=true"></code>
 <code><img height="42" title="WebStorm" alt="WebStorm" src="https://github.com/Dsazz/Dsazz/blob/main/webstorm.png?raw=true"></code>
 
+<code><img height="42" title="MCP" alt="MCP" src="https://github.com/Dsazz/Dsazz/blob/main/mcp.png?raw=true"></code>
 <code><img height="42" title="LangChain" alt="LangChain" src="https://github.com/Dsazz/Dsazz/blob/main/langchain-light.svg?raw=true"></code>
 
 ## <img align="top" src="https://github.com/Dsazz/Dsazz/blob/main/charts_.gif?raw=true" width="36px" height="32px"> GitHub Stats:
