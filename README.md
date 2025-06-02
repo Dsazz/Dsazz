@@ -15,7 +15,10 @@
 
 - 🧠 I'm currently learning [LangChain](https://langchain.com/) + [LangGraph](https://langchain-ai.github.io/langgraph/) ([CODE](https://github.com/Dsazz/langgraph-playground))
 - 💻 My own [game](https://github.com/Dsazz/hell-pong-game) based on the `Phaser` + `SocketIO` engine
-- ⚡ Fun fact: spent **six years** on `VIM` and switched to `Webstorm IDE` and `VSCode`
+- 👨‍💻 I'm the creator of two **MCP (Model Context Protocol)** projects:
+    * [mcp-jira](https://github.com/Dsazz/mcp-jira)
+    * [mcp-confluence](https://github.com/Dsazz/mcp-confluence)
+- ⚡ Fun fact: spent **six years** on `VIM` and switched to `Cursor IDE (VSCode)`
 
 ## <img align="center" src="https://github.com/Dsazz/Dsazz/blob/main/email_2.gif?raw=true" width="30px" height="22px"> Socials:
 
