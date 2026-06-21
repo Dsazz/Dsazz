@@ -1,71 +1,63 @@
-## <img align="top" src="https://github.com/Dsazz/Dsazz/blob/main/heart_2.gif?raw=true" width="30px" height="30px"> Welcome to my profile - where code comes to life!
+## <img align="top" src="https://github.com/Dsazz/Dsazz/blob/main/heart_2.gif?raw=true" width="30px" height="30px"> Stanislav Stepanenko — Senior AI Engineer
 
-<div style="overflow: hidden; float:right;">
-  <img alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true"/>
-</div>
+> Multi-Agent Systems & LLM Infrastructure · 10+ years shipping production software · Brighton, UK
+
+![Profile views](https://komarev.com/ghpvc/?username=Dsazz&style=flat-square&color=blue)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# <img align="top" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="38px" height="38px">About Me
+# <img align="top" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="38px" height="38px"> About Me
 
-- :octocat: High level of self-awareness with a willingness to learn and progress
-- 😉 Positive and open attitude, friendly and supportive
+- 🤖 **Senior AI Engineer** building production **multi-agent systems** with LLMs, **MCP**, and **Agent Skills**
+- 🏢 10+ years in software; **8+ years at Rakuten Advertising** as a Senior Software Engineer
+- 🧠 I design multi-agent architectures, evaluate LLM behavior in production, and write about the fundamentals that don't show up in API docs — tokenization, context engineering, agent coordination, and evaluation
+- 🛠️ Daily stack: **Python**, **TypeScript**, **Go** · Google ADK, LangChain, LangGraph, Pydantic AI · FastAPI, React · Docker, Kubernetes, Langfuse
+- ⚡ Fun fact: spent **six years** on `VIM` before switching to `Cursor IDE (VSCode)`
 
-**Talking about Personal Stuff:**
+## <img align="center" src="https://github.com/Dsazz/Dsazz/blob/main/charts_.gif?raw=true" width="30px" height="26px"> Featured Projects
 
-- 🧠 I'm currently learning [LangChain](https://langchain.com/) + [LangGraph](https://langchain-ai.github.io/langgraph/) ([CODE](https://github.com/Dsazz/langgraph-playground))
-- 💻 My own [game](https://github.com/Dsazz/hell-pong-game) based on the `Phaser` + `SocketIO` engine
-- 👨‍💻 I'm the creator of two **MCP (Model Context Protocol)** projects:
-    * [mcp-jira](https://github.com/Dsazz/mcp-jira)
-    * [mcp-confluence](https://github.com/Dsazz/mcp-confluence)
-- ⚡ Fun fact: spent **six years** on `VIM` and switched to `Cursor IDE (VSCode)`
+- 🔓 **[gothic-remake-lockbreaker](https://github.com/Dsazz/gothic-remake-lockbreaker)** — clean-path solver for the Gothic 1 Remake lock puzzle; finds the shortest turn sequence that never snaps your pick. Vanilla JS, zero dependencies.
+- 🧩 **[mcp-jira](https://github.com/Dsazz/mcp-jira)** & **[mcp-confluence](https://github.com/Dsazz/mcp-confluence)** — Model Context Protocol servers for Jira and Confluence
+- 🔬 **[langgraph-playground](https://github.com/Dsazz/langgraph-playground)** — LangChain + LangGraph experiments
+- 🕹️ **[hell-pong-game](https://github.com/Dsazz/hell-pong-game)** — multiplayer game on `Phaser` + `Socket.IO`
 
 ## <img align="center" src="https://github.com/Dsazz/Dsazz/blob/main/email_2.gif?raw=true" width="30px" height="22px"> Socials:
 
 [![Telegram Badge](https://img.shields.io/badge/-stanislav_stepanenko-blue?style=social&logo=Telegram&link=https://t.me/stanislav_stepanenko)](https://t.me/stanislav_stepanenko)
-[![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=http://linkedin.com/in/stanislav-stepanenko)](http://linkedin.com/in/stanislav-stepanenko)
+[![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/stanislav-stepanenko)](https://linkedin.com/in/stanislav-stepanenko)
 [![GMAIL Badge](https://img.shields.io/badge/dev.stanislav.stepanenko@gmail.com-D14836?style=social&logo=gmail&link=mailto:dev.stanislav.stepanenko@gmail.com)](mailto:dev.stanislav.stepanenko@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Dsazz?label=Follow&style=social)](https://github.com/Dsazz/?tab=follow)
 
-## <img align="top" src="https://github.com/Dsazz/Dsazz/blob/main/kitty.gif?raw=true" width="38px" height="40px">Tech Stack:
+## <img align="top" src="https://github.com/Dsazz/Dsazz/blob/main/kitty.gif?raw=true" width="38px" height="40px"> Tech Stack:
 
-<code><img height="40" title="TypeScript" alt="TypeScript" src="https://github.com/Dsazz/Dsazz/blob/main/ts.png?raw=true"></code>
-<code><img height="40" title="GoLang" alt="GoLang" src="https://github.com/Dsazz/Dsazz/blob/main/go.png?raw=true"></code>
-<code><img height="40" title="Rust" alt="Rust" src="https://github.com/Dsazz/Dsazz/blob/main/rust.png?raw=true"></code>
-<code><img height="40" title="PHP" alt="PHP" src="https://github.com/Dsazz/Dsazz/blob/main/php.png?raw=true"></code>
-<code><img height="40" title="Dart" alt="Dart" src="https://github.com/Dsazz/Dsazz/blob/main/dart.png?raw=true"></code>
+**Languages**
 
-<code><img height="40" title="Node.js" alt="Node.js" src="https://github.com/Dsazz/Dsazz/blob/main/nodejs.png?raw=true"></code>
-<code><img height="40" title="Express.js" alt="Express.js" src="https://github.com/Dsazz/Dsazz/blob/main/expressjs.png?raw=true"></code>
-<code><img height="40" title="Phaser" alt="Phaser" src="https://github.com/Dsazz/Dsazz/blob/main/phaserjs.png?raw=true"></code>
-<code><img height="40" title="React.js" alt="React.js" src="https://github.com/Dsazz/Dsazz/blob/main/react.png?raw=true"></code>
-<code><img height="40" title="Flutter" alt="Flutter" src="https://github.com/Dsazz/Dsazz/blob/main/flutter.png?raw=true"></code>
+![](https://skills.syvixor.com/api/icons?i=python,typescript,golang)
 
-<code><img height="40" title="Docker" alt="Docker" src="https://github.com/Dsazz/Dsazz/blob/main/docker.png?raw=true"></code>
-<code><img height="40" title="Apollo" alt="Apollo" src="https://github.com/Dsazz/Dsazz/blob/main/apollo.png?raw=true"></code>
-<code><img height="40" title="GraphQL" alt="GraphQL" src="https://github.com/Dsazz/Dsazz/blob/main/graphql.png?raw=true"></code>
-<code><img height="40" title="Next.js" alt="Next.js" src="https://github.com/Dsazz/Dsazz/blob/main/nextjs.png?raw=true"></code>
-<code><img height="40" title="SocketIO" alt="SocketIO" src="https://github.com/Dsazz/Dsazz/blob/main/socketio.png?raw=true"></code>
+**AI / LLM** &nbsp;<sub>also: LangGraph · Langfuse</sub>
 
-<code><img height="40" title="PostgreSQL" alt="PostgreSQL" src="https://github.com/Dsazz/Dsazz/blob/main/postgres.png?raw=true"></code>
-<code><img height="40" title="MySQL" alt="MySQL" src="https://github.com/Dsazz/Dsazz/blob/main/mysql.png?raw=true"></code>
-<code><img height="40" title="Oracle DB" alt="Oracle DB" src="https://github.com/Dsazz/Dsazz/blob/main/oracle2.png?raw=true"></code>
-<code><img height="40" title="MongoDB" alt="MongoDB" src="https://github.com/Dsazz/Dsazz/blob/main/mongodb.png?raw=true"></code>
-<code><img height="40" title="Firebase" alt="Firebase" src="https://github.com/Dsazz/Dsazz/blob/main/firebase.png?raw=true"></code>
+![](https://skills.syvixor.com/api/icons?i=langchain,pydantic,googleadk,mcp,gemini)
 
-<code><img height="40" title="VIM" alt="VIM" src="https://github.com/Dsazz/Dsazz/blob/main/vim.png?raw=true"></code>
-<code><img height="40" title="Cursor" alt="Cursor" src="https://github.com/Dsazz/Dsazz/blob/main/cursor-dark.svg?raw=true"></code>
-<code><img height="42" title="VSCode" alt="VSCode" src="https://github.com/Dsazz/Dsazz/blob/main/vscode.png?raw=true"></code>
-<code><img height="42" title="WebStorm" alt="WebStorm" src="https://github.com/Dsazz/Dsazz/blob/main/webstorm.png?raw=true"></code>
+**Backend & Web**
 
-<code><img height="42" title="MCP" alt="MCP" src="https://github.com/Dsazz/Dsazz/blob/main/mcp_.png?raw=true"></code>
-<code><img height="42" title="LangChain" alt="LangChain" src="https://github.com/Dsazz/Dsazz/blob/main/langchain-light.svg?raw=true"></code>
+![](https://skills.syvixor.com/api/icons?i=fastapi,nodejs,reactjs,nextjs,graphql)
+
+**Data**
+
+![](https://skills.syvixor.com/api/icons?i=postgresql,mongodb)
+
+**DevOps & Cloud** &nbsp;<sub>also: Helm</sub>
+
+![](https://skills.syvixor.com/api/icons?i=docker,kubernetes,gcp,circleci)
+
+**Tools**
+
+![](https://skills.syvixor.com/api/icons?i=git,cursor,vim)
 
 ## <img align="top" src="https://github.com/Dsazz/Dsazz/blob/main/charts_.gif?raw=true" width="36px" height="32px"> GitHub Stats:
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Dsazz&theme=radical&hide_border=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dsazz&theme=radical&hide_border=true)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Dsazz&theme=radical&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=Dsazz&theme=radical&hide_border=true)<br/>
 
-## <img align="top" src="https://github.com/Dsazz/Dsazz/blob/main/trophy.gif?raw=true" width="38px" height="32px"> GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=Dsazz&theme=radical&no-frame=true&no-bg=false&rank=-C)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dsazz&layout=compact&theme=radical&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Dsazz&theme=radical&hide_border=true)
