@@ -34,7 +34,7 @@
 
 ![](https://skills.syvixor.com/api/icons?i=python,typescript,golang)
 
-**AI / LLM** &nbsp;<sub>also: LangGraph · Langfuse</sub>
+**AI / LLM**
 
 ![](https://skills.syvixor.com/api/icons?i=langchain,pydantic,googleadk,mcp,gemini)
 
@@ -46,7 +46,7 @@
 
 ![](https://skills.syvixor.com/api/icons?i=postgresql,mongodb)
 
-**DevOps & Cloud** &nbsp;<sub>also: Helm</sub>
+**DevOps & Cloud**
 
 ![](https://skills.syvixor.com/api/icons?i=docker,kubernetes,gcp,circleci)
 
