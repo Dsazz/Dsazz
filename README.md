@@ -21,7 +21,7 @@
 - 🔬 **[langgraph-playground](https://github.com/Dsazz/langgraph-playground)** — LangChain + LangGraph experiments
 - 🕹️ **[hell-pong-game](https://github.com/Dsazz/hell-pong-game)** — multiplayer game on `Phaser` + `Socket.IO`
 
-## <img align="center" src="https://github.com/Dsazz/Dsazz/blob/main/email_2.gif?raw=true" width="30px" height="22px"> Socials:
+## <img align="center" src="https://github.com/Dsazz/Dsazz/blob/main/email_2.gif?raw=true" width="30px" height="22px"> Socials
 
 [![Telegram Badge](https://img.shields.io/badge/-stanislav_stepanenko-blue?style=social&logo=Telegram&link=https://t.me/stanislav_stepanenko)](https://t.me/stanislav_stepanenko)
 [![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/stanislav-stepanenko)](https://linkedin.com/in/stanislav-stepanenko)
