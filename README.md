@@ -28,7 +28,7 @@
 [![GMAIL Badge](https://img.shields.io/badge/dev.stanislav.stepanenko@gmail.com-D14836?style=social&logo=gmail&link=mailto:dev.stanislav.stepanenko@gmail.com)](mailto:dev.stanislav.stepanenko@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Dsazz?label=Follow&style=social)](https://github.com/Dsazz/?tab=follow)
 
-## <img align="top" src="https://github.com/Dsazz/Dsazz/blob/main/kitty.gif?raw=true" width="38px" height="40px"> Tech Stack:
+## <img align="center" src="https://github.com/Dsazz/Dsazz/blob/main/kitty.gif?raw=true" width="38px" height="40px"> Tech Stack
 
 **Languages**
 
