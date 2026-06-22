@@ -2,7 +2,9 @@
 
 > Multi-Agent Systems & LLM Infrastructure · 10+ years shipping production software · Brighton, UK
 
-<img align="right" alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true" />
+<div align="center">
+  <img alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true" width="600" />
+</div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dsazz&style=flat-square&color=blue)
 
