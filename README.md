@@ -6,8 +6,6 @@
   <img alt="GIF" src="https://github.com/Dsazz/Dsazz/blob/main/original.gif?raw=true" width="600" />
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Dsazz&style=flat-square&color=blue)
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # <img align="top" src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="38px" height="38px"> About Me
@@ -31,6 +29,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Stanislav%20Stepanenko-blue?style=social&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/stanislav-stepanenko)](https://linkedin.com/in/stanislav-stepanenko)
 [![GMAIL Badge](https://img.shields.io/badge/dev.stanislav.stepanenko@gmail.com-D14836?style=social&logo=gmail&link=mailto:dev.stanislav.stepanenko@gmail.com)](mailto:dev.stanislav.stepanenko@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Dsazz?label=Follow&style=social)](https://github.com/Dsazz/?tab=follow)
+[![Profile views](https://komarev.com/ghpvc/?username=Dsazz&label=Profile%20views&color=blue&style=flat)](https://github.com/Dsazz)
 
 ## <img align="center" src="https://github.com/Dsazz/Dsazz/blob/main/kitty.gif?raw=true" width="38px" height="40px"> Tech Stack
 
